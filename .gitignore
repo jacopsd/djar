@@ -1,0 +1,9 @@
+*.log
+*.pot
+*.pyc
+.djar/*
+.idea
+__pycache__
+db.sqlite3
+media
+staticfiles
